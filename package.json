@@ -99,7 +99,10 @@
     },
     "slug": "template-generic",
     "subgroup": "misc",
-    "title": "Generic Template"
+    "title": "Generic Template",
+    "github_id": "R_kgDOHRuemg",
+    "gitlab_project_id": "35581429",
+    "gitlab_group_id": "11579735"
   },
   "changelog": {
     "displayTypes": [
