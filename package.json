@@ -81,7 +81,7 @@
     "node": ">=14.18.0"
   },
   "publishConfig": {
-    "@gitlab:registry": "https://gitlab.com/api/v4/projects//packages/npm/",
+    "@gitlab:registry": "https://gitlab.com/api/v4/projects/35581429/packages/npm/",
     "@megabyte:registry": "https://gitlab.com/api/v4/projects/24729680/packages/npm/",
     "access": "public",
     "registry": "https://registry.npmjs.org/",
@@ -90,6 +90,9 @@
   "blueprint": {
     "boilerplate": true,
     "description": "A generic starting template for any project",
+    "github_id": "R_kgDOHRuemg",
+    "gitlab_group_id": "11579735",
+    "gitlab_project_id": "35581429",
     "group": "npm",
     "name": "Generic",
     "overview": "This repository is the home of a template that integrates with the GitLab UI. It can be used as a starting point for any project since it is a generic template.",
@@ -99,10 +102,7 @@
     },
     "slug": "template-generic",
     "subgroup": "misc",
-    "title": "Generic Template",
-    "github_id": "R_kgDOHRuemg",
-    "gitlab_project_id": "35581429",
-    "gitlab_group_id": "11579735"
+    "title": "Generic Template"
   },
   "changelog": {
     "displayTypes": [
