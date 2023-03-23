@@ -31,7 +31,7 @@
   </a>
 </div>
 
-> </br><h4 align="center">**A generic starting template for any project**</h4></br>
+> <br/><h4 align="center">**A generic starting template for any project**</h4></br/>
 
 <a href="#table-of-contents" style="width:100%"><img style="width:100%" src="https://gitlab.com/megabyte-labs/assets/-/raw/master/png/aqua-divider.png" /></a>
 
